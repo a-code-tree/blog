@@ -1,0 +1,7 @@
+node_modules
+.temp
+.cache
+.vuepress/dist
+/docs/lixiaowei.md
+.idea
+dist
