@@ -1,6 +1,6 @@
 // 参考文档《VuePress》 https://v2.vuepress.vuejs.org/zh/
 module.exports = {
-    "title": "一棵编程树文档",
+    "title": "一棵编程树",
     "description": " ",
     // "dest": "public",
     "head": [
@@ -19,15 +19,18 @@ module.exports = {
             }
         ]
     ],
-    // "theme": "reco",
+    // "theme": "vue-default",
     "themeConfig": {
+        // 分类页面和标签页面
+        categories: true,
+        tags: true,
         "nav": [
             {
                 "text": "首页",
                 "link": "/",
             },
             {
-                "text": "环境信息",
+                "text": "互联网热点",
                 "link": "/env",
             },
             {
@@ -54,3 +57,4 @@ module.exports = {
 
 
 }
+
