@@ -11,9 +11,6 @@ tags:
 - [一文通俗了解当前互联网服务端常用语言与开源脚手架](./newTechnolgy/backend)
 - [一文通俗解读互联网大数据是什么与应用场景](./newTechnolgy/bigdata)
 - [一句话通俗解读常规出现的各种科技名称与简称](./newTechnolgy/newWords)
-- [一文通俗了解图像生成独角兽midjourney与搭建使用教程](./newTechnolgy/midjourney)
-- [一文通俗了解编程各语言的当前生态与较为成熟的开源框架](./newTechnolgy/code)
-
 - [一文通俗了解国产软件之光Nacos](./newTechnolgy/nacos)
 - [一文通俗了解区块链以及比特币狗狗币](./newTechnolgy/block)
 - [一文通俗了解共识算法](./newTechnolgy/agreeMath)
