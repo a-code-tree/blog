@@ -8,28 +8,33 @@ tags:
   - JavaScript
   - 人物肖像
 ---
+# 2024年书单
+## 已读完
+- [x] 乔布斯传-（沃尔特·艾萨克森）
+- [x] Steve Jobs-（Walter Isaacson）
+- [x] 欲乐园-（渡边淳一）
+- [x] C语言设计
 
-# 一文收集大咖推荐的书籍
+## 在读中
+- [] 深入浅出Vue.js（刘博文）
+- [] 深入浅出Electron（刘晓伦）
+- [] Rust程序设计（Jim Blandy|Jason Orendorff|Leonora F.S.Tindall）
+- [] Node.js 实战（Tim&Mark&Neisen）
+- [] [数学之美(吴军)](http://)
+- [] Deep Learning(Lan Goodfellow & Yoshua Bengio & Aaron Courville)
 
-## 比尔盖茨推荐
-## 俞敏洪推荐
-## 产品经理推荐
-``` 
+## 计划读
+- [] Linux 内核相关的书
+- [] Tomcat 框架底层相关的书
+- [] Spring 框架底层相关的书
+- [] React 框架底层相关的书
+- [] Webrtc 框架底层相关的书
 
-```
-## 哲学（张三）推荐
+# 2024 podcast
 
-## 马云推荐
-## 马化腾推荐
-## 马斯克推荐
-
-##自己喜欢的：
-牧羊人
-``` 
-经典语录：
-当你真心想完成一件事，会感觉到整个宇宙都在帮助你
-```
-
+## TED
+- [x] The Olympic spirit - and how you can tap into it | Allyson Felix
+- 
 
 
 
