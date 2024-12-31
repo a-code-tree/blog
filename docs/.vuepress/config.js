@@ -1,7 +1,7 @@
 // 参考文档《VuePress》 https://v2.vuepress.vuejs.org/zh/
 module.exports = {
     "title": "一棵编程树",
-    "description": " ",
+    "description": "致力于通俗化解释专业化术语",
     // "dest": "public",
     "head": [
         [
@@ -30,12 +30,41 @@ module.exports = {
                 "link": "/",
             },
             {
-                "text": "互联网热点",
-                "link": "/env",
+                "text": "项目",
+                "link": "/project",
             },
             {
-                "text": "环境信息",
-                "link": "/env",
+                "text": "Rust",
+                "link": "/rust",
+            },
+            {
+                "text": "English",
+                "link": "/english",
+            },
+            {
+                "text": "Go",
+                "link": "/Go",
+            },
+            {
+                "text": "Java",
+                "link": "/Java",
+            },
+            {
+                "text": "Typescript",
+                "link": "/ts",
+            },
+            {
+                "text": "Electron",
+                "link": "/Electron",
+            },
+
+            {
+                "text": "Tauri",
+                "link": "/tauri",
+            },
+            {
+                "text": "Tauri",
+                "link": "/tauri",
             }
 
         ],
