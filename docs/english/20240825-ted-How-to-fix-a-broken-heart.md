@@ -9,7 +9,7 @@ tags:
   - English
 ---
 
-## v
+## How to fix a broken heart
 ``` 
 
 At some point in our lives, almost every one of us will have our heart broken.
@@ -24,8 +24,8 @@ Kathy was shattered. Her heart was truly broken, and she now faced yet another r
 In over 20 years of private practice, I have seen people of every age and background face every manner of heartbreak, and what I've learned is this: when your heart is broken, the same instincts you ordinarily rely on will time and again lead you down the wrong path. You simply cannot trust what your mind is telling you.
 
 For example, we know from studies of heartbroken people that having a clear understanding of why the relationship ended is really important for our ability to move on. Yet time and again, when we are offered a simple and honest explanation like the one Rich offered Kathy, we reject it. Heartbreak creates such dramatic emotional pain, our mind tells us the cause must be equally dramatic. 
- And that gut instinct is so powerful, it can make even the most reasonable and measured of us come up with mysteries and conspiracy theories where none exist. Kathy became convinced something must have happened during her romantic getaway with Rich that soured him on the relationship, and she became obsessed with figuring out what that was. 
- And so she spent countless hours going through every minute of that weekend in her mind, searching her memory for clues that were not there. Kathy's mind tricked her into initiating this wild goose chase. But what compelled her to commit to it for so many months?
+And that gut instinct is so powerful, it can make even the most reasonable and measured of us come up with mysteries and conspiracy theories where none exist. Kathy became convinced something must have happened during her romantic getaway with Rich that soured him on the relationship, and she became obsessed with figuring out what that was. 
+And so she spent countless hours going through every minute of that weekend in her mind, searching her memory for clues that were not there. Kathy's mind tricked her into initiating this wild goose chase. But what compelled her to commit to it for so many months?
 
 Heartbreak is far more insidious than we realize. There is a reason we keep going down one rabbit hole after another, even when we know it's going to make us feel worse. Brain studies have shown that the withdrawal of romantic love activates the same mechanisms in our brain that get activated when addicts are withdrawing from substances like cocaine or opioids. 
 Kathy was going through withdrawal. And since she could not have the heroin of actually being with Rich, her unconscious mind chose the methadone of her memories with him. Her instincts told her she was trying to solve a mystery, but what she was actually doing was getting her fix.
@@ -58,11 +58,3 @@ Getting over heartbreak is hard, but if you refuse to be misled by your mind and
 So if you know someone who is heartbroken, have compassion, because social support has been found to be important for their recovery. And have patience, because it's going to take them longer to move on than you think it should. And if you're hurting, know this: it's difficult, it is a battle within your own mind, and you have to be diligent to win. But you do have weapons. You can fight. And you will heal.
 
 ```
-
-
-
-
-
-
-
- 

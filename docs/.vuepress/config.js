@@ -8,7 +8,7 @@ module.exports = {
             "link",
             {
                 "rel": "icon",
-                // "href": "./images/cib.ico"
+                // "href": "./images/xxx.ico"
             }
         ],
         [
@@ -58,10 +58,6 @@ module.exports = {
                 "link": "/Electron",
             },
 
-            {
-                "text": "Tauri",
-                "link": "/tauri",
-            },
             {
                 "text": "Tauri",
                 "link": "/tauri",

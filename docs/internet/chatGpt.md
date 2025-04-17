@@ -5,7 +5,6 @@ tags:
   - 区块链
   - chaGPT
 ---
-  
 
 #### 1、AIGC（AI-Generated Content ）
 常被翻译的简称：人工智能生成内容、生成式AI
